@@ -2,7 +2,7 @@
 
   ## Description
   
-  This will generate a team profile based on user response using the Inquirer module from Node.js; It will then create a html page/style sheet.
+
 
   https://thetodd7.github.io/Workday-Scheduler/
   
