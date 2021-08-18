@@ -1,6 +1,8 @@
   # Workday-Scheduler[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
+Using HTML/CSS/JS I was able to create a workday scheduler. Additionlly, using jQuery and moment.js libraries allows you to save upcoming events. Also I was able to color the table based on the events that have passed,current or upcoming. Where the  events are saved in local storage and this way it will always be avaible to 
+user everytime they return to the site.
   
 
 
